@@ -1,0 +1,7 @@
+{
+  "name": "圣诞树",
+  "description": "A luxurious, interactive 3D Christmas tree experience featuring gold and emerald aesthetics, particle morphing, and cinematic post-processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
